@@ -36,5 +36,6 @@ export default defineConfig({
       message: 'Ikuti kami: <a href="https://instagram.com/masjid.albirru" target="_blank" rel="noreferrer">Instagram</a> • <a href="https://facebook.com/masjid.albirru" target="_blank" rel="noreferrer">Facebook</a> • <a href="https://youtube.com/@masjidalbirru" target="_blank" rel="noreferrer">YouTube</a> • <a href="https://t.me/masjidalbirru" target="_blank" rel="noreferrer">Telegram</a>',
       copyright: '© 2026 Masjid Al-Birru. Semua hak dilindungi.'
     }
+    ]
   }
 })
