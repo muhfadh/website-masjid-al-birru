@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-label="Poster Kajian Ahad Pagi">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <text x="540" y="220" font-family="Arial, sans-serif" font-size="54" text-anchor="middle" fill="#ffffff">MASJID AL-BIRRU</text>
+  <text x="540" y="330" font-family="Arial, sans-serif" font-size="74" font-weight="700" text-anchor="middle" fill="#ffffff">KAJIAN AHAD PAGI</text>
+  <text x="540" y="470" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#ecfeff">Senin, 11 Mei 2026 • 07:00 WIB</text>
+  <text x="540" y="540" font-family="Arial, sans-serif" font-size="36" text-anchor="middle" fill="#ecfeff">Aula Utama Masjid</text>
+  <rect x="170" y="680" rx="18" ry="18" width="740" height="280" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.35)"/>
+  <text x="540" y="770" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#ffffff">Pemateri:</text>
+  <text x="540" y="840" font-family="Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle" fill="#ffffff">Ustadz Contoh</text>
+  <text x="540" y="1150" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#cffafe">Terbuka untuk umum • Gratis</text>
+</svg>
