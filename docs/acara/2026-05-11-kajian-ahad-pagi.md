@@ -3,9 +3,8 @@ title: "Kajian Ahad Pagi"
 date: "2026-05-11"
 time: "07:00 WIB"
 location: "Aula Utama Masjid"
-speaker: "Ustadz Contoh"
+speaker: "Ustadz Ali Khumaidi"
 poster: "/images/acara/2026-05-11-kajian-ahad-pagi.svg"
-poster: "/images/acara/2026-05-11-kajian-ahad-pagi.jpg"
 ---
 
 Kajian rutin ahad pagi terbuka untuk umum.
