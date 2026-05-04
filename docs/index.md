@@ -41,3 +41,4 @@ Selamat datang di website resmi Masjid Al-Birru.
     <li><a href="https://t.me/masjidalbirru" target="_blank" rel="noreferrer">Telegram</a></li>
   </ul>
 </footer>
+Selamat datang di website resmi Masjid Al-Birru.
