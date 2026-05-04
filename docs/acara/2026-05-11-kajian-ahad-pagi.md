@@ -14,3 +14,6 @@ Kajian rutin ahad pagi terbuka untuk umum.
 ![Poster Kajian Ahad Pagi](/images/acara/2026-05-11-kajian-ahad-pagi.jpg)
 
 > Simpan file poster di `docs/public/images/acara/` agar otomatis ikut ter-publish.
+---
+
+Kajian rutin ahad pagi terbuka untuk umum.
