@@ -2,8 +2,8 @@
 layout: home
 hero:
   name: "Masjid Al-Birru"
-  text: "Pusat Informasi Jamaah"
-  tagline: "Blog/Berita, Acara, dan Laporan Keuangan Bulanan"
+  text: "Pusat Informasi Peradaban"
+  tagline: "Informasi, Acara, dan Laporan Keuangan Masjid"
   actions:
     - theme: brand
       text: Lihat Berita
@@ -28,10 +28,8 @@ features:
   <h2 style="margin:0;">Masjid Al-Birru</h2>
 </div>
 
-Selamat datang di website resmi Masjid Al-Birru.
-
+Selamat datang di website resmi Masjid Al-Birru Cinangka.
 ---
-
 <footer style="margin-top:32px;padding-top:16px;border-top:1px solid var(--vp-c-divider);">
   <strong>Media Sosial Masjid Al-Birru</strong>
   <ul>
@@ -41,4 +39,3 @@ Selamat datang di website resmi Masjid Al-Birru.
     <li><a href="https://t.me/masjidalbirru" target="_blank" rel="noreferrer">Telegram</a></li>
   </ul>
 </footer>
-Selamat datang di website resmi Masjid Al-Birru.
