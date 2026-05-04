@@ -19,6 +19,18 @@ npm run docs:dev
 npm run docs:build
 ```
 
+## Deploy ke GitHub Pages
+1. Push repository ke GitHub (`main` atau `work`).
+2. Buka `Settings > Pages` lalu pilih **Source: GitHub Actions**.
+3. Buka `Settings > Actions > General` dan pastikan workflow permissions adalah **Read and write permissions**.
+4. Jalankan workflow `Build & Deploy VitePress` dari tab Actions (atau push commit baru agar auto-trigger).
+
+> Konfigurasi default `base` saat ini adalah `/website-masjid-al-birru/`.
+> Jika nama repository berbeda, ubah `base` di `docs/.vitepress/config.mjs`.
+>
+> Untuk override sementara tanpa ubah file, gunakan environment variable:
+> `VITEPRESS_BASE='/nama-repo/' npm run docs:build`
+
 ## Menambah Konten Baru
 Contoh menambah berita:
 ```bash

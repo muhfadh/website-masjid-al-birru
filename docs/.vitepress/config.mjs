@@ -1,9 +1,14 @@
 import { defineConfig } from 'vitepress'
 
+// Untuk GitHub Pages project site:
+// https://<username>.github.io/website-masjid-al-birru/
+const base = process.env.VITEPRESS_BASE ?? '/website-masjid-al-birru/'
+
 export default defineConfig({
   lang: 'id-ID',
   title: 'Masjid Al-Birru',
   description: 'Portal resmi masjid: berita, acara, laporan keuangan, dan informasi jamaah.',
+  base,
   cleanUrls: true,
   themeConfig: {
     nav: [
