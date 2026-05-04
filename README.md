@@ -54,6 +54,7 @@ Setelah file terbuat, tambahkan link ke `index.md` pada folder terkait.
 - Tampilkan di markdown acara pakai path absolut dari root:
 
 ```md
+![Poster Acara](/images/acara/nama-file-poster.svg (atau .jpg/.png))
 ![Poster Acara](/images/acara/nama-file-poster.jpg)
 ```
 
