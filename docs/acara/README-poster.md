@@ -19,5 +19,4 @@ Atau pakai HTML jika ingin atur ukuran:
 
 ```html
 <img src="/images/acara/2026-05-11-kajian-ahad-pagi.svg" alt="Poster Kajian" width="480" />
-<img src="/images/acara/2026-05-11-kajian-ahad-pagi.jpg" alt="Poster Kajian" width="480" />
 ```

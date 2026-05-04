@@ -11,6 +11,7 @@ export default defineConfig({
   base,
   cleanUrls: true,
   themeConfig: {
+    logo: '/images/logo-masjid-al-birru.svg',
     nav: [
       { text: 'Beranda', link: '/' },
       { text: 'Blog/Berita', link: '/blog/' },
