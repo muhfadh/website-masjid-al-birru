@@ -48,3 +48,13 @@ npm run new:keuangan -- "laporan-april"
 ```
 
 Setelah file terbuat, tambahkan link ke `index.md` pada folder terkait.
+
+## Menambahkan Gambar/Poster Acara
+- Simpan poster di `docs/public/images/acara/`
+- Tampilkan di markdown acara pakai path absolut dari root:
+
+```md
+![Poster Acara](/images/acara/nama-file-poster.jpg)
+```
+
+Lihat contoh di `docs/acara/2026-05-11-kajian-ahad-pagi.md`.
