@@ -9,7 +9,6 @@
 ```md
 ![Poster Kajian](/images/acara/2026-05-11-kajian-ahad-pagi.svg)
 ```
-
 Atau pakai HTML jika ingin atur ukuran:
 
 ```html
