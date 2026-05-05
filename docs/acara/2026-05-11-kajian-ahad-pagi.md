@@ -6,11 +6,10 @@ location: "Aula Utama Masjid"
 speaker: "Ustadz Contoh"
 poster: "/images/acara/2026-05-11-kajian-ahad-pagi.svg"
 ---
-
-Kajian rutin ahad pagi terbuka untuk umum.
-
 ## Poster Acara
 
 ![Poster Kajian Ahad Pagi](/images/acara/2026-05-11-kajian-ahad-pagi.svg)
+> Silakan hadiri dan ikuti!
+---
 
-> Simpan file poster di `docs/public/images/acara/` agar otomatis ikut ter-publish.
+Kajian rutin ahad pagi terbuka untuk umum.
