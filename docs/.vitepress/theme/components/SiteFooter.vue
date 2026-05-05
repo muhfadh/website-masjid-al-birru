@@ -55,7 +55,7 @@ const quickLinks = [
     </div>
 
     <div class="site-footer__bottom">
-      Copyright © {{ currentYear }} Masjid Al-Birru. Semua hak dilindungi.
+      © {{ currentYear }} Masjid Al-Birru. Semua hak dilindungi.
     </div>
   </footer>
 </template>
