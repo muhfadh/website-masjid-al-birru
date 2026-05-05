@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Logo Masjid Al-Birru">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="58" fill="url(#g)"/>
+  <path d="M64 24l22 18v40a22 22 0 1 1-44 0V42z" fill="#fff" fill-opacity="0.95"/>
+  <rect x="60" y="36" width="8" height="16" rx="2" fill="#0f766e"/>
+</svg>
